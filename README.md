@@ -1,1 +1,1 @@
-# 08-Breakout
+For this assignment i applied everything I've been taught about Godot to create something literally identical to the last breakout game i made in Godot. 
