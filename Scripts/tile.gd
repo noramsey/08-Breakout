@@ -10,6 +10,8 @@ var yellow = preload("res://Assets/tile_yellow.png")
 onready var sprite = get_node("Sprite")
 var score = 10
 
+
+
 func _ready():
 	if get_parent().name == "Gray Tiles":
 		sprite.set_texture(gray)
